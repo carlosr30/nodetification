@@ -6,7 +6,7 @@
   "main": "server.js",
   "scripts": {
     "start": "nodemon server.js",
-    "test": "node test-notification.js"
+    "test-notif": "node test-notification.js"
   },
   "keywords": [],
   "author": "",
