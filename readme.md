@@ -1,5 +1,7 @@
 # Nodetification
 
+Notification server using node.js and apache kafka.
+
 ## Requirements
 
 - Node.js v14.18.1
